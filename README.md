@@ -11,15 +11,13 @@ This script allows you to create a visual representation of the directory struct
 1. Run the script:
     
     ```
-    Copy code
     python generate_file_tree.py
-    
     ```
     
 2. Enter the desired path when prompted.
 3. Specify the name for the output file.
 
-Example:
+### Example:
 
 ```
 Enter the path to generate a file tree: /path/to/directory
